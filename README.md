@@ -1,2 +1,3 @@
-# Kubernetes-example
+# kubernetes-examples
+
 Basic Kubernetes examples
